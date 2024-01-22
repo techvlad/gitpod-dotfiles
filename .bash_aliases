@@ -1,1 +1,1 @@
-alias cat='bat -pp --theme=gruvbox-dark'
+# alias cat='bat -pp --theme=gruvbox-dark'

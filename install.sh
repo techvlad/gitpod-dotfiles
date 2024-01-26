@@ -5,6 +5,7 @@ curl -sS https://starship.rs/install.sh | sh -s - --yes
 echo 'eval "$(starship init bash)"' >> ~/.bashrc
 
 # Install packages
+sudo apt-get update
 sudo apt-get install htop fzf --yes
 
 # Lazydocker
